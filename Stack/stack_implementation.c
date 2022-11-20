@@ -4,7 +4,7 @@ void pop(int st[]);
 void peek(int st[]);
 void display(int st[]);
 void isEmpty(int st[]);
-int MAX=3;
+const int MAX=3;
 int top=-1;
 int st[MAX];
 int main(){
