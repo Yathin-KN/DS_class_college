@@ -6,7 +6,7 @@ void display(int st[]);
 void isEmpty(int st[]);
 int MAX=3;
 int top=-1;
-int st[3];
+int st[MAX];
 int main(){
    int ch;
   while(1){
