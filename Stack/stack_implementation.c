@@ -33,6 +33,7 @@ int main(){
       break;
     }
     case 6:{
+      printf("program terminated \n");
       exit(0);
     }
   }
