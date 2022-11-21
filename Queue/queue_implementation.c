@@ -29,6 +29,7 @@ int main(){
        break;
     }
     case 4:{
+       printf("program terminated \n");
        exit(0);
     }
   }
